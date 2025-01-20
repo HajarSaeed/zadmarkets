@@ -1,0 +1,2 @@
+D:/food-delivery-app-with-larvel-admin/User app and web/android/app/.cxx/RelWithDebInfo/3d124k6x/arm64-v8a/CMakeFiles/edit_cache.dir
+D:/food-delivery-app-with-larvel-admin/User app and web/android/app/.cxx/RelWithDebInfo/3d124k6x/arm64-v8a/CMakeFiles/rebuild_cache.dir

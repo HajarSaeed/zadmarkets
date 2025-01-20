@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>39062065402-6qoh5dpldcec636ld9g0ultqe3u2di3r.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.39062065402-6qoh5dpldcec636ld9g0ultqe3u2di3r</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>39062065402-24tm3v5kuh9dd5qbi51fpci3e5prineg.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAnlNLOJ6Fn6DG7sspud21nXhuF_m39pSw</string>
+	<key>GCM_SENDER_ID</key>
+	<string>39062065402</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.sixamtech.stackfoodUserAppDevMehedi</string>
+	<key>PROJECT_ID</key>
+	<string>zadmarket-8ae33</string>
+	<key>STORAGE_BUCKET</key>
+	<string>zadmarket-8ae33.firebasestorage.app</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:39062065402:ios:cd22c94c626576e9617943</string>
+</dict>
+</plist>

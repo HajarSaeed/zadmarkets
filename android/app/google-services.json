@@ -1,0 +1,242 @@
+{
+  "project_info": {
+    "project_number": "39062065402",
+    "project_id": "zadmarket-8ae33",
+    "storage_bucket": "zadmarket-8ae33.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:39062065402:android:32e3aea11eb7d682617943",
+        "android_client_info": {
+          "package_name": "com.monaco.pizzeria"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "39062065402-r2qejc1hb612qsr0dfds7g25n0f7l6qq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.monaco.pizzeria",
+            "certificate_hash": "21baf19dfeae1507bffd1a1ec36b204587db3c5c"
+          }
+        },
+        {
+          "client_id": "39062065402-l0ii94brmnciseft3njh0iipcbeqpv14.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDmolL3FrGhE1nXOQe5ELiyrNl8Yf1gPWU"
+        },
+        {
+          "current_key": "AIzaSyAT434ZhN6Jjp92MVpqx2Mni1SbDm5J8fI"
+        },
+        {
+          "current_key": "AIzaSyDRPWVhZy07IsVaVvao4qhs29Q8o7IWnTE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "39062065402-l0ii94brmnciseft3njh0iipcbeqpv14.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "39062065402-6qoh5dpldcec636ld9g0ultqe3u2di3r.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.sixamtech.stackfoodUserAppDevMehedi"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:39062065402:android:5d29ca516b1fca8d617943",
+        "android_client_info": {
+          "package_name": "com.sixamtech.stackfooduser"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "39062065402-idggp03jekv34jk8nl61mluq7m6iqpq7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sixamtech.stackfooduser",
+            "certificate_hash": "21baf19dfeae1507bffd1a1ec36b204587db3c5c"
+          }
+        },
+        {
+          "client_id": "39062065402-l0ii94brmnciseft3njh0iipcbeqpv14.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDmolL3FrGhE1nXOQe5ELiyrNl8Yf1gPWU"
+        },
+        {
+          "current_key": "AIzaSyAT434ZhN6Jjp92MVpqx2Mni1SbDm5J8fI"
+        },
+        {
+          "current_key": "AIzaSyDRPWVhZy07IsVaVvao4qhs29Q8o7IWnTE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "39062065402-l0ii94brmnciseft3njh0iipcbeqpv14.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "39062065402-6qoh5dpldcec636ld9g0ultqe3u2di3r.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.sixamtech.stackfoodUserAppDevMehedi"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:39062065402:android:0af119e6fefdc612617943",
+        "android_client_info": {
+          "package_name": "com.zadmarket.deliveryboy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "39062065402-hao048mohfin4gmbq8gcnh6bnrot2fhh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.zadmarket.deliveryboy",
+            "certificate_hash": "0103e8daaaa4aa4a7a0606d950f6aaec657ef19e"
+          }
+        },
+        {
+          "client_id": "39062065402-lvd0tl0tj3i6kaif72comg56fvmann43.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.zadmarket.deliveryboy",
+            "certificate_hash": "a63c8b0fabc34111584d4c650eba24ebb24d88b5"
+          }
+        },
+        {
+          "client_id": "39062065402-rjumfscn84u55jt1he6nteep1akudp87.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.zadmarket.deliveryboy",
+            "certificate_hash": "87bb2a43a44b8c422e7e3c7b154a5ecc7638da4f"
+          }
+        },
+        {
+          "client_id": "39062065402-l0ii94brmnciseft3njh0iipcbeqpv14.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDmolL3FrGhE1nXOQe5ELiyrNl8Yf1gPWU"
+        },
+        {
+          "current_key": "AIzaSyAT434ZhN6Jjp92MVpqx2Mni1SbDm5J8fI"
+        },
+        {
+          "current_key": "AIzaSyDRPWVhZy07IsVaVvao4qhs29Q8o7IWnTE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "39062065402-l0ii94brmnciseft3njh0iipcbeqpv14.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "39062065402-6qoh5dpldcec636ld9g0ultqe3u2di3r.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.sixamtech.stackfoodUserAppDevMehedi"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:39062065402:android:ce42afe161a1371e617943",
+        "android_client_info": {
+          "package_name": "com.zadmarket.multirestaurant"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "39062065402-gmk36onks1gngo8f4sufcibt12j6ciu2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.zadmarket.multirestaurant",
+            "certificate_hash": "d69bc10cacc7e7a14438c9566c411fbeeaf33d3b"
+          }
+        },
+        {
+          "client_id": "39062065402-jv5b0dov3icjacm12ht8d36u0tr20u6g.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.zadmarket.multirestaurant",
+            "certificate_hash": "d730273f55156c554108a98e40f36a9edec84639"
+          }
+        },
+        {
+          "client_id": "39062065402-pd5559cmme7u5jsgnebnq0ekc50tul1o.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.zadmarket.multirestaurant",
+            "certificate_hash": "126523d9e12c0f1de27cc23f2b2e5f4466ff7233"
+          }
+        },
+        {
+          "client_id": "39062065402-l0ii94brmnciseft3njh0iipcbeqpv14.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDmolL3FrGhE1nXOQe5ELiyrNl8Yf1gPWU"
+        },
+        {
+          "current_key": "AIzaSyAT434ZhN6Jjp92MVpqx2Mni1SbDm5J8fI"
+        },
+        {
+          "current_key": "AIzaSyDRPWVhZy07IsVaVvao4qhs29Q8o7IWnTE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "39062065402-l0ii94brmnciseft3njh0iipcbeqpv14.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "39062065402-6qoh5dpldcec636ld9g0ultqe3u2di3r.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.sixamtech.stackfoodUserAppDevMehedi"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

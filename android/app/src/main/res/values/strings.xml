@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ZadMarkets</string>
+    <string name="facebook_app_id">812813357734470</string>
+    <string name="fb_login_protocol_scheme">fb812813357734470</string>
+    <string name="facebook_client_token">8ae42c13a9f7fc33c9a36c038f9a1b85</string>
+</resources>
