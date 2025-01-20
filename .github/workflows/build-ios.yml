@@ -1,4 +1,4 @@
-name: Build iOS App 
+name: Build iOS App
 
 on:
   push:
@@ -10,20 +10,20 @@ jobs:
     runs-on: macos-latest
 
     steps:
-      - name: Checkout Code
-        uses: actions/checkout@v3
+      - name: Checkout repository
+        uses: actions/checkout@v2
 
-      - name: Set Up Ruby for Cocoapods
-        uses: ruby/setup-ruby@v1
+      - name: Set up Flutter
+        uses: subosito/flutter-action@v2
         with:
-          ruby-version: 3.1
+          flutter-version: 'stable'
 
-      - name: Install Cocoapods
-        run: gem install cocoapods
+      - name: Install dependencies (iOS)
+        run: |
+          cd ios
+          pod install --repo-update
 
-      - name: Install Dependencies
-        run: pod install --repo-update
-
-      - name: Build Project
-        run: xcodebuild -workspace <stackfood_multivendor>.xcworkspace -scheme <stackfood_multivendor> -sdk iphonesimulator
-
+      - name: Build iOS
+        run: |
+          cd ios
+          flutter build ios --release
