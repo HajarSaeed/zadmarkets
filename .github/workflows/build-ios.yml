@@ -16,7 +16,7 @@ jobs:
       - name: Set up Flutter
         uses: subosito/flutter-action@latest
         with:
-          flutter-version: '3.7.0'  # Specify the Flutter version explicitly
+          flutter-version: '3.27.2'  # Specify the Flutter version explicitly
 
       - name: Install dependencies (iOS)
         run: |
