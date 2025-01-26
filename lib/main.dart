@@ -77,7 +77,9 @@ ios       1:39062065402:ios:cd22c94c626576e9617943
   }else if(GetPlatform.isAndroid) {
     await Firebase.initializeApp(
       options: const FirebaseOptions(
-        apiKey: 'AIzaSyDmolL3FrGhE1nXOQe5ELiyrNl8Yf1gPWU',
+       // apiKey: 'AIzaSyDmolL3FrGhE1nXOQe5ELiyrNl8Yf1gPWU',
+        apiKey: 'AIzaSyAT434ZhN6Jjp92MVpqx2Mni1SbDm5J8fI',
+
         appId: '1:39062065402:android:5d29ca516b1fca8d617943',
         messagingSenderId: '39062065402',
         projectId: 'zadmarket-8ae33',
